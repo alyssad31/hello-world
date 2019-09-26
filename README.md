@@ -1,2 +1,4 @@
 # hello-world
-hell-world activity
+hello-world activity
+Greetings! 
+i update readme. 
